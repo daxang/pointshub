@@ -1,0 +1,19 @@
+html {
+  width:100%;
+  height:100%;
+  font-family:  'Pathway Gothic One',tahoma,Arial,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","\5FAE\8F6F\96C5\9ED1","\5b8b\4f53","WenQuanYi Micro Hei",sans-serif;
+}
+
+body{
+  width:100%;
+  height:100%;
+  margin:0;
+  background:url(https://d33wubrfki0l68.cloudfront.net/4555afaa682f2c4df9935dce49b25e6145a73dc9/e4afc/static/white-background-tile-2x-16c37b50592fa0135e9a704821142fec.webp) 0% 0% / 200px;;
+  --fonts-mono:  'Pathway Gothic One',"iAWriter Mono",Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+  --fonts-sans:  'Pathway Gothic One',"Inter var",system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
+*{
+  box-sizing: border-box;
+  -webkit-font-smoothing:antialiased
+}
